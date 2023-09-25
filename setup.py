@@ -5,7 +5,7 @@ setup(
     version="0.1",
     packages=find_packages(exclude=['tests*']),
     license="MIT",
-    description="How to create a python package",
+    description="A calculator with basic operators",
     long_description=open("README.md").read(),
     url="https://github.com/AneleMaphalala/basiccalculator.git",
     author="Anele Maphalala",
